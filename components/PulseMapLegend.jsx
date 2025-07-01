@@ -1,0 +1,1 @@
+// PulseMapLegend.jsx - placeholder

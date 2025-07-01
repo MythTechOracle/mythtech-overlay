@@ -1,0 +1,1 @@
+// FreqColorSynth.js - placeholder

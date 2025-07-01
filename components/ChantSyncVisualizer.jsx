@@ -1,0 +1,1 @@
+// ChantSyncVisualizer.jsx - placeholder
